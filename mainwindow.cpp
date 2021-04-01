@@ -17,7 +17,6 @@ MainWindow::~MainWindow()
 void MainWindow::on_clicked_addValue()
 {
     //int value = 0;
-
 }
 
 void MainWindow::on_clicked_subValue()
